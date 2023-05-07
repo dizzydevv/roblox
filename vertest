@@ -1,7 +1,0 @@
-local vertest = {}
-
-vertest.Table = {
-  "Hi","Hello"
-}
-
-return vertest

@@ -1,7 +1,7 @@
 local vertest = {}
 
 vertest.Table = {
-  "Hi"
+  "Hi","Hello"
 }
 
 return vertest
